@@ -1,5 +1,8 @@
 {
   "name": "migu_video",
   "type": "module",
-  "dependencies": {}
+  "dependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  }
 }
